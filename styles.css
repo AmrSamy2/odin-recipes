@@ -1,0 +1,32 @@
+body {
+  background-color:rgb(240, 240, 164);
+  display: flex;
+  flex-direction: column;
+  color:chocolate;
+}
+h1, h2, h3, h4 {
+  text-align: center;
+  color:chocolate;
+}
+a {
+  color: chocolate;
+  font-size: 1.3rem;
+}
+ul, ol {
+  color: darkslategrey;
+  font-size: 1.2rem;
+}
+h4, h3 {
+  font-size: 1.4rem;
+}
+p {
+  position: relative;
+  font-size: 1.2rem;
+}
+img{
+  height: 400px;
+  width: 400px;
+  max-width: 1000px;
+  position: relative;
+  align-self: center;
+}
